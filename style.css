@@ -103,12 +103,13 @@ h1 {
 .registro {
     text-align: center;
     margin: 20px 0;
+    color: #fff;
 
 }
 
 .registro p a {
     font-size: 16px;
-    color: #fff;
+    color: black;
     font-weight: 300;
     text-decoration: none;
 
